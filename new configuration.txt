@@ -1,1 +1,2 @@
 adding new configuration
+modifying configuration
