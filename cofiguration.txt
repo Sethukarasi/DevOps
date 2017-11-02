@@ -3,4 +3,7 @@ modifying
 adding
 
 stash 1
-new change
+
+
+change to the file
+
