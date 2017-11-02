@@ -3,3 +3,4 @@ modifying configuration
 change in the file
 
 stash 2
+new complex stash
