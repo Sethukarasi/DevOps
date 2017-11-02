@@ -3,3 +3,4 @@ modifying
 adding
 
 stash 1
+new change
