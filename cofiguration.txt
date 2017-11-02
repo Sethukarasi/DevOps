@@ -1,3 +1,5 @@
 new file with configuration
 modifying
 adding
+
+stash 1
