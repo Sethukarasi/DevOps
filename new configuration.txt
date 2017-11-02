@@ -2,5 +2,9 @@ adding new configuration
 modifying configuration
 change in the file
 
+
 stash 2
 new complex stash
+
+stash 2
+stash complex
