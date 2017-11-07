@@ -6,5 +6,7 @@ stash 1
 
 
 change to the file
+new change from nfcfeature
 modifying in Feature1 branch
 jenkins CI trigger
+
